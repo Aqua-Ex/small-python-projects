@@ -1,0 +1,17 @@
+{
+    "intial_budget": 10000.0,
+    "expenses": [
+        {
+            "Description": "Food",
+            "Amount": 200.0
+        },
+        {
+            "Description": "Drinks",
+            "Amount": 400.0
+        },
+        {
+            "Description": "Laundry",
+            "Amount": 20.0
+        }
+    ]
+}
